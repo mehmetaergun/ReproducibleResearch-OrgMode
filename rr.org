@@ -341,7 +341,7 @@ threed_scatter.png
 
 * create a graph (exported code) 				     :export:
 #+name: three_d_scatter
-#+BEGIN_SRC R :file three_d_scatter.png :results graphics :export both 
+#+BEGIN_SRC R :file images/three_d_scatter.png :results graphics :export both 
 X = seq(1, 100, 5)
 Y = seq (1, 100, 5)
 Z = rnorm (length (X), 10, 2)
@@ -356,7 +356,7 @@ s3d$points3d(data3, col = "green4", pch = 17)
 #+END_SRC
 
 #+RESULTS: three_d_scatter
-[[file:three_d_scatter.png]]
+[[file:images/three_d_scatter.png]]
 
 * graph (exported result) 					     :export:
 
