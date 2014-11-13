@@ -1,4 +1,4 @@
-#+Title: Readme for Evan Misshula's presentation
+#+Title: Org-mode and reproducible research
 #+Author: Evan Misshula
 #+Email: emisshula@jjay.cuny.edu
 
@@ -16,8 +16,6 @@
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
 #+REVEAL_POSTAMBLE: <p> Created by Evan Misshula. </p>
 #+REVEAL_PLUGINS: (highlight markdown)
-
-* Org-mode and reproducible research
 
 The presentation in this Repo was given by Evan Misshula to the
 Emacsnyc meetup on November 3, 2014.  
