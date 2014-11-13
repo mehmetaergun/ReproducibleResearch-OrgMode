@@ -361,7 +361,7 @@ s3d$points3d(data3, col = "green4", pch = 17)
 * graph (exported result) 					     :export:
 
 #+ATTR_HTML: :width 650px :alt processed-graph
-[[file:three_d_scatter.png]]
+[[file:images/three_d_scatter.png]]
 
 * graph function (how it looks in Emacs)			     :export:
 
